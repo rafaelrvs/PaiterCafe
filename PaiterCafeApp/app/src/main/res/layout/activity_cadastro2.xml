@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+
+
+    >
+    <!-- container cadastro2-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginVertical="150dp"
+        >
+
+        <TextView
+            android:id="@+id/bordaoCadastro2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bordaoInicial"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            />
+        <TextView
+            android:id="@+id/titleCadastro2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nameTitle"
+            android:textAlignment="center"
+            android:layout_marginTop="50dp"
+            android:textSize="15sp"
+            />
+
+
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Senha"
+            android:textAlignment="center"
+            android:layout_marginTop="50dp"
+
+            />
+        <EditText
+            android:id="@+id/inputPassWordCadastro"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+
+            >
+
+            <Button
+                android:id="@+id/btnCriar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginLeft="50dp"
+                android:text="@string/cadastrar"
+                />
+
+            <TextView
+                android:id="@+id/jaTenhoConta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/jaTenhoConta"
+                android:layout_marginLeft="100dp"
+
+                />
+
+
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/insta"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            android:layout_marginTop="100dp"
+
+            />
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

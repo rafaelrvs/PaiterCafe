@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">PaiterCafe</string>
+    <string name="bordaoInicial">Aroma de mogi</string>
+    <string name="nameTitle">PAITER CAFÉ</string>
+    <string name="Email">E-mail</string>
+    <string name="Cadastrese">Cadastre-se</string>
+    <string name="jaTenhoConta">Já tenho uma conta</string>
+    <string name="prosseguir">Prosseguir</string>
+    <string name="Senha">Password</string>
+    <string name="cadastrar">Criar</string>
+    <string name="naoTemConta">Não tenho conta</string>
+    <string name="insta">\@paitercafe</string>
+    <string name="Entrar">Entrar</string>
+    <string name="EsqueciASenha">Esqueci a senha</string>
 </resources>

@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "676922431502",
-    "project_id": "cafeteria-842d2",
-    "storage_bucket": "cafeteria-842d2.appspot.com"
+    "project_number": "1096767668379",
+    "project_id": "cafe-4753e",
+    "storage_bucket": "cafe-4753e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:676922431502:android:ff654163b43bed49d4845f",
+        "mobilesdk_app_id": "1:1096767668379:android:1634f7b55f0bbcb050063e",
         "android_client_info": {
-          "package_name": "com.lavita.myapp_ads"
+          "package_name": "com.rafael.paitercafe"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDiNIi4j41zrDwKwySI9lUMBulvmlSlqKU"
+          "current_key": "AIzaSyCZUtIaTo-d5ag5oJxAUvmIwUWoRLTkiuI"
         }
       ],
       "services": {
