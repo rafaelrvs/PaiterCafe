@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676922431502",
+    "project_id": "cafeteria-842d2",
+    "storage_bucket": "cafeteria-842d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676922431502:android:ff654163b43bed49d4845f",
+        "android_client_info": {
+          "package_name": "com.lavita.myapp_ads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiNIi4j41zrDwKwySI9lUMBulvmlSlqKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
