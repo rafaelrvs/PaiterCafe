@@ -12,4 +12,8 @@
     <string name="insta">\@paitercafe</string>
     <string name="Entrar">Entrar</string>
     <string name="EsqueciASenha">Esqueci a senha</string>
+    <string name="Menu">Menu</string>
+    <string name="carrinhho">Adicionar ao carrinho</string>
+    <string name="quantidade">Digite a quantidade</string>
+    <string name="confirmar">Confirmar</string>
 </resources>
