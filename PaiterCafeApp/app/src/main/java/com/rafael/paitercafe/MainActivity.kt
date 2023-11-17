@@ -19,11 +19,10 @@ class MainActivity : AppCompatActivity() {
 
         btnMainREgister.findViewById<Button>(R.id.mainbtnCadastro)
 
+
 btnMainREgister.setOnClickListener{view->
 
-    val login =  f
-
-    val intent = Intent(this,login::class.java)
+    val intent = Intent(this,active_cadastro::class.java )
     startActivity(intent)
 
 }
