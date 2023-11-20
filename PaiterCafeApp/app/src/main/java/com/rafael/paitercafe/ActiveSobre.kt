@@ -8,7 +8,7 @@ class ActiveSobre : AppCompatActivity() {
     @SuppressLint("MissingInflatedId")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.Activity_Sobre)
+        setContentView(R.layout.activity_sobre)
 
 
     }
